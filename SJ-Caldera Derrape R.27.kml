@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sjcaldera_derrape_r27" id="sjcaldera_derrape_r27">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="Deslizante" type="float"></SimpleField>
+</Schema>
+<Folder><name>sjcaldera_derrape_r27</name>
+  <Placemark id="sjcaldera_derrape_r27.1">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="Deslizante">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.7119750701746,9.91773254573572 -84.7113792293924,9.91663540925833 -84.7094796191995,9.91640405971549 -84.7079383658296,9.9172311159646 -84.7067142117528,9.91833209813113 -84.7052505618531,9.91845286414193 -84.7032714785154,9.91806473234436 -84.7016880477151,9.91767576128605 -84.6994731635061,9.91803344445738 -84.6973394772568,9.91937166189478 -84.6950873253673,9.92082779845285 -84.6934665504919,9.92149804170186 -84.6916859428571,9.92142326132114 -84.6894689674305,9.92080016627833 -84.6866579482858,9.91990367121029 -84.6846369433798,9.91837787941783 -84.6831694595193,9.91665480347353 -84.6822967597883,9.91555817231255 -84.6807916791011,9.9147766525098 -84.6791289927328,9.9143092751848 -84.6768731633127,9.91400000150831 -84.6741818858938,9.91357390069848 -84.6727967246652,9.91338053570198 -84.6708523974601,9.91059917453826 -84.6695428773607,9.90867957105909 -84.6664546628497,9.90758730368719 -84.6633273761183,9.90673045761769 -84.6616640425458,9.90590992968509 -84.6604743828725,9.90453925580419 -84.6580917334735,9.90011105116571 -84.6570996130713,9.89858305960297</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.2">
+	<Style><LineStyle><color>FF1c19d7</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="Deslizante">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.7119750701746,9.91773254573572 -84.7113792293924,9.91663540925833 -84.7094796191995,9.91640405971549 -84.7079383658296,9.9172311159646 -84.7067142117528,9.91833209813113 -84.7052505618531,9.91845286414193 -84.7032714785154,9.91806473234436 -84.7016880477151,9.91767576128605 -84.6994731635061,9.91803344445738 -84.6973394772568,9.91937166189478 -84.6950873253673,9.92082779845285 -84.6934665504919,9.92149804170186 -84.6916859428571,9.92142326132114 -84.6894689674305,9.92080016627833 -84.6866579482858,9.91990367121029 -84.6846369433798,9.91837787941783 -84.6831694595193,9.91665480347353 -84.6822967597883,9.91555817231255 -84.6807916791011,9.9147766525098 -84.6791289927328,9.9143092751848 -84.6768731633127,9.91400000150831 -84.6741818858938,9.91357390069848 -84.6727967246652,9.91338053570198 -84.6708523974601,9.91059917453826 -84.6695428773607,9.90867957105909 -84.6664546628497,9.90758730368719 -84.6633273761183,9.90673045761769 -84.6616640425458,9.90590992968509 -84.6604743828725,9.90453925580419 -84.6580917334735,9.90011105116571 -84.6570996130713,9.89858305960297</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.3">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.6570996130713,9.89858305960297 -84.6545228160582,9.89595973942895 -84.6514325222323,9.8937296826553 -84.6495322161934,9.89306646350427 -84.6475133071413,9.89244269061195 -84.6456924459107,9.89193621240867 -84.6409846132452,9.89198444655918</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.4">
+	<Style><LineStyle><color>FF31ffff</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.6570996130713,9.89858305960297 -84.6545228160582,9.89595973942895 -84.6514325222323,9.8937296826553 -84.6495322161934,9.89306646350427 -84.6475133071413,9.89244269061195 -84.6456924459107,9.89193621240867 -84.6409846132452,9.89198444655918</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.5">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="Deslizante">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.6409846132452,9.89198444655918 -84.6357235057334,9.89234749486603 -84.6296320181315,9.89294739274484 -84.6259927138692,9.89318956225144 -84.6227096129461,9.89350949191214 -84.6200199436632,9.89382829626163 -84.6173299748896,9.89399016255908 -84.6134896982961,9.89254570370947</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.6">
+	<Style><LineStyle><color>FF42f14e</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="Deslizante">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.6409846132452,9.89198444655918 -84.6357235057334,9.89234749486603 -84.6296320181315,9.89294739274484 -84.6259927138692,9.89318956225144 -84.6227096129461,9.89350949191214 -84.6200199436632,9.89382829626163 -84.6173299748896,9.89399016255908 -84.6134896982961,9.89254570370947</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.7">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.6134896982961,9.89254570370947 -84.6110744969692,9.8915301363871 -84.609254045601,9.89121960350719 -84.6071570202989,9.89110570701808 -84.6041113570311,9.8914642557539 -84.6013818293211,9.89162606487266 -84.5997593381906,9.89139358505827 -84.5973049026486,9.89053490377345 -84.5946912421284,9.88912727213573 -84.5907710716422,9.88717270163195 -84.5880784788962,9.88584361294244</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.8">
+	<Style><LineStyle><color>FF31ffff</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.6134896982961,9.89254570370947 -84.6110744969692,9.8915301363871 -84.609254045601,9.89121960350719 -84.6071570202989,9.89110570701808 -84.6041113570311,9.8914642557539 -84.6013818293211,9.89162606487266 -84.5997593381906,9.89139358505827 -84.5973049026486,9.89053490377345 -84.5946912421284,9.88912727213573 -84.5907710716422,9.88717270163195 -84.5880784788962,9.88584361294244</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.9">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="Deslizante">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.5880784788962,9.88584361294244 -84.5850311682307,9.88526048028458 -84.5821832632747,9.8855792554875 -84.5787823066837,9.88636971398906 -84.5755790746546,9.88712057118305 -84.5697657953783,9.88850350332399</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.10">
+	<Style><LineStyle><color>FF42f14e</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="Deslizante">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.5880784788962,9.88584361294244 -84.5850311682307,9.88526048028458 -84.5821832632747,9.8855792554875 -84.5787823066837,9.88636971398906 -84.5755790746546,9.88712057118305 -84.5697657953783,9.88850350332399</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.11">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.5697657953783,9.88850350332399 -84.5653363481278,9.88941325840324 -84.5632013071467,9.89020143375286 -84.561344526259,9.89177372633578 -84.5600827015077,9.89424730288927 -84.5588600904564,9.89652466152281 -84.5572800006585,9.89797878473502 -84.5555017482001,9.89923707998933 -84.5534062477227,9.90006436171507 -84.5508356411567,9.90069626113384 -84.5474736123009,9.9012509721173 -84.5444268553028,9.90105977300341 -84.5405083433034,9.90004612280121 -84.5379759295611,9.89985403681451 -84.5348110024063,9.89997677764958 -84.5319245352591,9.90104056546917 -84.5302251028132,9.90218091812516</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.12">
+	<Style><LineStyle><color>FF31ffff</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.5697657953783,9.88850350332399 -84.5653363481278,9.88941325840324 -84.5632013071467,9.89020143375286 -84.561344526259,9.89177372633578 -84.5600827015077,9.89424730288927 -84.5588600904564,9.89652466152281 -84.5572800006585,9.89797878473502 -84.5555017482001,9.89923707998933 -84.5534062477227,9.90006436171507 -84.5508356411567,9.90069626113384 -84.5474736123009,9.9012509721173 -84.5444268553028,9.90105977300341 -84.5405083433034,9.90004612280121 -84.5379759295611,9.89985403681451 -84.5348110024063,9.89997677764958 -84.5319245352591,9.90104056546917 -84.5302251028132,9.90218091812516</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.13">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.5302251028132,9.90218091812516 -84.5271029036266,9.90430424557641 -84.5254033122227,9.90536611572476 -84.5217652801394,9.90658791437431</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.14">
+	<Style><LineStyle><color>FF42f14e</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.5302251028132,9.90218091812516 -84.5271029036266,9.90430424557641 -84.5254033122227,9.90536611572476 -84.5217652801394,9.90658791437431</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.15">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.5217652801394,9.90658791437431 -84.5201833031258,9.90698266765129 -84.5182453602407,9.90745642304634 -84.5163867254557,9.90804773546432 -84.513778848766,9.91024861401317 -84.5119997461164,9.91111439135611 -84.5105761171431,9.91158731933623 -84.5078067701856,9.9117484398394 -84.5059869939989,9.91190810769664 -84.5048799971529,9.91245899469024</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.16">
+	<Style><LineStyle><color>FF31ffff</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.5217652801394,9.90658791437431 -84.5201833031258,9.90698266765129 -84.5182453602407,9.90745642304634 -84.5163867254557,9.90804773546432 -84.513778848766,9.91024861401317 -84.5119997461164,9.91111439135611 -84.5105761171431,9.91158731933623 -84.5078067701856,9.9117484398394 -84.5059869939989,9.91190810769664 -84.5048799971529,9.91245899469024</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.17">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.5048799971529,9.91245899469024 -84.5036948230958,9.91363767588295 -84.5029063169331,9.9154826694272 -84.5018410771593,9.91748499546449 -84.4996664754949,9.91850822195955 -84.4969761936989,9.91866913828002 -84.494245871367,9.91851625162832 -84.4902879401296,9.9176589973616</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.18">
+	<Style><LineStyle><color>FF1c19d7</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.5048799971529,9.91245899469024 -84.5036948230958,9.91363767588295 -84.5029063169331,9.9154826694272 -84.5018410771593,9.91748499546449 -84.4996664754949,9.91850822195955 -84.4969761936989,9.91866913828002 -84.494245871367,9.91851625162832 -84.4902879401296,9.9176589973616</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.19">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.4902879401296,9.9176589973616 -84.4884280290152,9.91746555964734 -84.4865292476244,9.91774292919851 -84.4845526552616,9.91892269325207 -84.483247705432,9.91943456719942 -84.4813879582894,9.91935878090714 -84.4793689184767,9.91857706931568 -84.4783400738973,9.91850007755671 -84.4772324939036,9.91869780573579 -84.4757693221708,9.91924910629139 -84.4741864860802,9.91913365692498 -84.4721281768991,9.91854810733197 -84.470386854442,9.9182759420435 -84.4688051947953,9.91898429959308 -84.4671879635816,9.92251727429958 -84.4663194295036,9.92389154033565 -84.4650554352854,9.92542327394889 -84.4640669113901,9.92589540626549 -84.4629190120405,9.92558315156586 -84.4612566826743,9.9252323707568 -84.4600688918788,9.92468477953973 -84.4590008449401,9.92488239459491 -84.4576566414488,9.92566883706217 -84.4565509786602,9.9272787847951 -84.454849890586,9.92751647894769 -84.4533068550436,9.92759702980336 -84.4507365579341,9.92877740424267</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.20">
+	<Style><LineStyle><color>FF31ffff</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.4902879401296,9.9176589973616 -84.4884280290152,9.91746555964734 -84.4865292476244,9.91774292919851 -84.4845526552616,9.91892269325207 -84.483247705432,9.91943456719942 -84.4813879582894,9.91935878090714 -84.4793689184767,9.91857706931568 -84.4783400738973,9.91850007755671 -84.4772324939036,9.91869780573579 -84.4757693221708,9.91924910629139 -84.4741864860802,9.91913365692498 -84.4721281768991,9.91854810733197 -84.470386854442,9.9182759420435 -84.4688051947953,9.91898429959308 -84.4671879635816,9.92251727429958 -84.4663194295036,9.92389154033565 -84.4650554352854,9.92542327394889 -84.4640669113901,9.92589540626549 -84.4629190120405,9.92558315156586 -84.4612566826743,9.9252323707568 -84.4600688918788,9.92468477953973 -84.4590008449401,9.92488239459491 -84.4576566414488,9.92566883706217 -84.4565509786602,9.9272787847951 -84.454849890586,9.92751647894769 -84.4533068550436,9.92759702980336 -84.4507365579341,9.92877740424267</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.21">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.4507365579341,9.92877740424267 -84.449113843917,9.92846574041609 -84.4457101526149,9.92784259927113 -84.4424671674031,9.92902380545397</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.22">
+	<Style><LineStyle><color>FF1c19d7</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.4507365579341,9.92877740424267 -84.449113843917,9.92846574041609 -84.4457101526149,9.92784259927113 -84.4424671674031,9.92902380545397</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.23">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.4424671674031,9.92902380545397 -84.4398968168502,9.93020409884457 -84.4378795694313,9.93075596552161 -84.4353078395724,9.93091623768641 -84.4330928402816,9.93154679358771</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.24">
+	<Style><LineStyle><color>FF42f14e</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.4424671674031,9.92902380545397 -84.4398968168502,9.93020409884457 -84.4378795694313,9.93075596552161 -84.4353078395724,9.93091623768641 -84.4330928402816,9.93154679358771</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.25">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.4330928402816,9.9315467935877 -84.4281082427794,9.93233780706681 -84.4267645405381,9.93359489359329 -84.4255005233432,9.9352834080556 -84.4240377383521,9.93626602287675 -84.4223760921462,9.93646427459327 -84.4207134408782,9.93587791132961 -84.4194853533665,9.93474176980492 -84.4184145023438,9.93278158814995 -84.4170680270594,9.93188096718784 -84.4159205404344,9.93188239360449 -84.4141029047535,9.93388539761314 -84.4131153100733,9.93518122164357 -84.4116125248577,9.93584998941021 -84.4098711465236,9.93557751180888 -84.4081690478554,9.93506959438048 -84.4066262470864,9.93538531467016 -84.4057570834484,9.93648482202437 -84.4040160905173,9.93652615731484 -84.4022759117954,9.93723440089128 -84.4005759152875,9.93845258402141 -84.4003799297784,9.93998280759022 -84.4002235124684,9.94151298366821 -84.3992356017718,9.94261261710053 -84.3979301278031,9.94288878518549 -84.3966237055142,9.94238033937936 -84.395514523072,9.941361658706 -84.3946826642617,9.94061726080309 -84.3933770060214,9.94073648914875 -84.3922298125022,9.94101244890083 -84.3908058149782,9.9414456501789 -84.3894207797085,9.94136880324889 -84.3866905107443,9.94141119888511 -84.3843955539812,9.94149230323287 -84.3828529701333,9.9420432989699 -84.3809939574753,9.94271233981378</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.26">
+	<Style><LineStyle><color>FF31ffff</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.4330928402816,9.9315467935877 -84.4281082427794,9.93233780706681 -84.4267645405381,9.93359489359329 -84.4255005233432,9.9352834080556 -84.4240377383521,9.93626602287675 -84.4223760921462,9.93646427459327 -84.4207134408782,9.93587791132961 -84.4194853533665,9.93474176980492 -84.4184145023438,9.93278158814995 -84.4170680270594,9.93188096718784 -84.4159205404344,9.93188239360449 -84.4141029047535,9.93388539761314 -84.4131153100733,9.93518122164357 -84.4116125248577,9.93584998941021 -84.4098711465236,9.93557751180888 -84.4081690478554,9.93506959438048 -84.4066262470864,9.93538531467016 -84.4057570834484,9.93648482202437 -84.4040160905173,9.93652615731484 -84.4022759117954,9.93723440089128 -84.4005759152875,9.93845258402141 -84.4003799297784,9.93998280759022 -84.4002235124684,9.94151298366821 -84.3992356017718,9.94261261710053 -84.3979301278031,9.94288878518549 -84.3966237055142,9.94238033937936 -84.395514523072,9.941361658706 -84.3946826642617,9.94061726080309 -84.3933770060214,9.94073648914875 -84.3922298125022,9.94101244890083 -84.3908058149782,9.9414456501789 -84.3894207797085,9.94136880324889 -84.3866905107443,9.94141119888511 -84.3843955539812,9.94149230323287 -84.3828529701333,9.9420432989699 -84.3809939574753,9.94271233981378</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.27">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.3809939574753,9.94271233981378 -84.3797284878998,9.94338069766933 -84.3783043263934,9.9436961551244 -84.3762862954838,9.94373766077097 -84.3739119985897,9.94366186070896 -84.3714590049156,9.94397843718856 -84.3676614075101,9.94500262696343 -84.3645771839293,9.94704599422358 -84.3612965331845,9.95042338794698 -84.3602700952737,9.95262141076882 -84.3598382911512,9.95579955681788</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.28">
+	<Style><LineStyle><color>FF42f14e</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.3809939574753,9.94271233981378 -84.3797284878998,9.94338069766933 -84.3783043263934,9.9436961551244 -84.3762862954838,9.94373766077097 -84.3739119985897,9.94366186070896 -84.3714590049156,9.94397843718856 -84.3676614075101,9.94500262696343 -84.3645771839293,9.94704599422358 -84.3612965331845,9.95042338794698 -84.3602700952737,9.95262141076882 -84.3598382911512,9.95579955681788</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.29">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.3598382911512,9.95579955681788 -84.3590892172333,9.95835035308975 -84.3577079162165,9.96176489886022 -84.3567602253787,9.96364898213303 -84.3558109079669,9.96404230095466 -84.3538319365184,9.96373055814125 -84.3514967730089,9.96337994782989 -84.3497160477334,9.96342104753948 -84.3476184083732,9.96314862245543 -84.3457190479794,9.9632682855991 -84.3445720599198,9.9638579307668 -84.3433862746583,9.96519299475646 -84.3415263505053,9.96519490189533 -84.3382815777236,9.96539435769057</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.30">
+	<Style><LineStyle><color>FF31ffff</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.3598382911512,9.95579955681788 -84.3590892172333,9.95835035308975 -84.3577079162165,9.96176489886022 -84.3567602253787,9.96364898213303 -84.3558109079669,9.96404230095466 -84.3538319365184,9.96373055814125 -84.3514967730089,9.96337994782989 -84.3497160477334,9.96342104753948 -84.3476184083732,9.96314862245543 -84.3457190479794,9.9632682855991 -84.3445720599198,9.9638579307668 -84.3433862746583,9.96519299475646 -84.3415263505053,9.96519490189533 -84.3382815777236,9.96539435769057</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.31">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.3382815777236,9.96539435769057 -84.3347207766077,9.96614332880649 -84.329851916381,9.96477509819075</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.32">
+	<Style><LineStyle><color>FF1c19d7</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.3382815777236,9.96539435769057 -84.3347207766077,9.96614332880649 -84.329851916381,9.96477509819075</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.33">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.329851916381,9.96477509819075 -84.3280705495937,9.96418839176999 -84.3246267850428,9.96325021865775 -84.3210257077583,9.96329292959463</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.34">
+	<Style><LineStyle><color>FF31ffff</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.329851916381,9.96477509819075 -84.3280705495937,9.96418839176999 -84.3246267850428,9.96325021865775 -84.3210257077583,9.96329292959463</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.35">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.3210257077583,9.96329292959463 -84.3108183575793,9.96585258483031 -84.3029434606483,9.96601674450917</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.36">
+	<Style><LineStyle><color>FF42f14e</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.3210257077583,9.96329292959463 -84.3108183575793,9.96585258483031 -84.3029434606483,9.96601674450917</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.37">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.3029434606483,9.96601674450917 -84.2999359756984,9.9660979208453 -84.2941174234254,9.96465155469863 -84.2914653718973,9.9639084932424 -84.2852135343658,9.96469850765875</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.38">
+	<Style><LineStyle><color>FF31ffff</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.3029434606483,9.96601674450917 -84.2999359756984,9.9660979208453 -84.2941174234254,9.96465155469863 -84.2914653718973,9.9639084932424 -84.2852135343658,9.96469850765875</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.39">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.2852135343658,9.96469850765875 -84.2830766591497,9.96477878736678 -84.2810186599049,9.96454513993776 -84.2786446121785,9.96493943795244 -84.2767058956746,9.96537258973847 -84.2735792915585,9.96498285643308 -84.2705316138569,9.96431841325968 -84.2657433096842,9.96436148819267 -84.257987793638,9.96538757362601 -84.2538328208616,9.9656653742166 -84.2525663264395,9.965470179546 -84.2514575551456,9.9645294726891 -84.2503479525382,9.96249029490583</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.40">
+	<Style><LineStyle><color>FF42f14e</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.2852135343658,9.96469850765875 -84.2830766591497,9.96477878736678 -84.2810186599049,9.96454513993776 -84.2786446121785,9.96493943795244 -84.2767058956746,9.96537258973847 -84.2735792915585,9.96498285643308 -84.2705316138569,9.96431841325968 -84.2657433096842,9.96436148819267 -84.257987793638,9.96538757362601 -84.2538328208616,9.9656653742166 -84.2525663264395,9.965470179546 -84.2514575551456,9.9645294726891 -84.2503479525382,9.96249029490583</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.41">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.2503479525382,9.96249029490583 -84.2493958202152,9.95935252741858 -84.2484053212619,9.95778402502044 -84.2464254113273,9.95605932612187 -84.2423862209069,9.9522176383532 -84.2347867813938,9.94986919688432 -84.2329656079726,9.9486150761461 -84.2307080378691,9.94575277203538 -84.2276983678838,9.94245942178413 -84.2258379611897,9.9415975979419 -84.2251249153088,9.9404603761383 -84.2244114999014,9.93877391728905 -84.2212843027988,9.93704982913215 -84.2160610518794,9.93701400863597</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.42">
+	<Style><LineStyle><color>FF31ffff</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.2503479525382,9.96249029490583 -84.2493958202152,9.95935252741858 -84.2484053212619,9.95778402502044 -84.2464254113273,9.95605932612187 -84.2423862209069,9.9522176383532 -84.2347867813938,9.94986919688432 -84.2329656079726,9.9486150761461 -84.2307080378691,9.94575277203538 -84.2276983678838,9.94245942178413 -84.2258379611897,9.9415975979419 -84.2251249153088,9.9404603761383 -84.2244114999014,9.93877391728905 -84.2212843027988,9.93704982913215 -84.2160610518794,9.93701400863597</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.43">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.2160610518794,9.93701400863597 -84.2099677880526,9.93780250746925 -84.205971831235,9.93878576820176 -84.1987320833355,9.94141863203859</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.44">
+	<Style><LineStyle><color>FF1c19d7</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.2160610518794,9.93701400863597 -84.2099677880526,9.93780250746925 -84.205971831235,9.93878576820176 -84.1987320833355,9.94141863203859</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.45">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.1987320833355,9.94141863203859 -84.1901473313539,9.94495442514122</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.46">
+	<Style><LineStyle><color>FF31ffff</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.1987320833355,9.94141863203859 -84.1901473313539,9.94495442514122</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.47">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.1901473313539,9.94495442514122 -84.1852812581641,9.94699717658281 -84.1822340824769,9.94664576948129</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.48">
+	<Style><LineStyle><color>FF1c19d7</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.1901473313539,9.94495442514122 -84.1852812581641,9.94699717658281 -84.1822340824769,9.94664576948129</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.49">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.1822340824769,9.94664576948129 -84.1806116445189,9.94660741804104 -84.1785545208384,9.94766776456966 -84.1771304414655,9.94857083920091 -84.1753892800442,9.94853252543323 -84.1741226844596,9.94794471903342 -84.1736077396866,9.9469642064483 -84.1729342455691,9.94547376916493 -84.1719047841826,9.94429736308656 -84.1707965146157,9.94374869343828 -84.1687784637822,9.94386741092522 -84.1666421558913,9.94488849343687 -84.1622509023199,9.94716606292465 -84.1597979050607,9.94803033070304 -84.1579776985812,9.94818812016013</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.50">
+	<Style><LineStyle><color>FF31ffff</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.1822340824769,9.94664576948129 -84.1806116445189,9.94660741804104 -84.1785545208384,9.94766776456966 -84.1771304414655,9.94857083920091 -84.1753892800442,9.94853252543323 -84.1741226844596,9.94794471903342 -84.1736077396866,9.9469642064483 -84.1729342455691,9.94547376916493 -84.1719047841826,9.94429736308656 -84.1707965146157,9.94374869343828 -84.1687784637822,9.94386741092522 -84.1666421558913,9.94488849343687 -84.1622509023199,9.94716606292465 -84.1597979050607,9.94803033070304 -84.1579776985812,9.94818812016013</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.51">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.1579776985812,9.94818812016013 -84.1545744501774,9.94795432254271 -84.1502205624377,9.94568089328598</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.52">
+	<Style><LineStyle><color>FF1c19d7</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.1579776985812,9.94818812016013 -84.1545744501774,9.94795432254271 -84.1502205624377,9.94568089328598</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.53">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.1502205624377,9.94568089328598 -84.1423435398812,9.94019195841143 -84.1339533612318,9.93713537933681</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.54">
+	<Style><LineStyle><color>FF31ffff</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.1502205624377,9.94568089328598 -84.1423435398812,9.94019195841143 -84.1339533612318,9.93713537933681</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.55">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.1339533612318,9.93713537933681 -84.1296793596029,9.9360385849918 -84.1194305259666,9.93545392657636 -84.1176501468196,9.93619995190789 -84.1163048225197,9.93635734710864</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.56">
+	<Style><LineStyle><color>FF1c19d7</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.1339533612318,9.93713537933681 -84.1296793596029,9.9360385849918 -84.1194305259666,9.93545392657636 -84.1176501468196,9.93619995190789 -84.1163048225197,9.93635734710864</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.57">
+	<Style><LineStyle><color>FF000000</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.1163048225197,9.93635734710864 -84.1138514952217,9.9363974214228 -84.1113577744105,9.93400514828479 -84.0983784878422,9.93263611395923</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark id="sjcaldera_derrape_r27.58">
+	<Style><LineStyle><color>FF31ffff</color><width>3.01353</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#sjcaldera_derrape_r27">
+		<SimpleData name="Deslizante">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-84.1163048225197,9.93635734710864 -84.1138514952217,9.9363974214228 -84.1113577744105,9.93400514828479 -84.0983784878422,9.93263611395923</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
