@@ -1,4 +1,5 @@
 # Visor geográfico de Agarre Superficial Ruta 27 Costa Rica
+Febrero 2026
 
 ## Dar clic en siguiente vínculo:
 (https://asoto59g.github.io/Agarre-Superficial-Ruta-27/)
